@@ -1,7 +1,5 @@
 # portfolio-test-automation
 
-Here's a README.md with a project structure diagram and essential information:
-
 ```markdown
 # Test Automation Framework
 
@@ -9,7 +7,7 @@ A robust test automation framework supporting  web, mobile and API testing, buil
 
 ## 🏗️ Project Structure
 
-```
+
 clockwork/
 ├── 📂 src/
 │   ├── 📂 main/
@@ -33,7 +31,7 @@ clockwork/
 │       └── 📂 resources/
 │           └── 📂 testrunners/            # TestNG XML Files
 └── 📄 pom.xml
-```
+
 
 ## 🚀 Features
 
@@ -104,5 +102,3 @@ void verifySuccessfulSignIn(TestDataEntity tde) {
 }
 ```
 ```
-
-This README provides a clear overview of the project structure, features, and usage. The ASCII directory tree gives a visual representation of how the project is organized. Feel free to modify the sections based on your specific needs.
